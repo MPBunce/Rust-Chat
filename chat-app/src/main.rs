@@ -3,7 +3,7 @@
 
 #[get("/world")]
 fn world() -> &'static str{
-    "Hello world!"
+    "Hello world from chat app!"
 }
 
 
